@@ -51,7 +51,7 @@ ng build --configuration production --output-hashing=all
 
 ### Actulizar paquetes
 
-Ejecucat npx npm-check-updates
+Ejecutar npx npm-check-updates
 
 > npx npm-check-updates
 
@@ -72,3 +72,10 @@ Instalar `npm-check-updates` para actualizar los paquetes de un proyecto.
 ### Ejecutar el comando `ncu -u` para actualizar los paquetes.
 
 > ncu -u
+
+### Update minor version angular
+
+```bash
+  ng update @angular/cli
+  ng update @angular/core
+```
