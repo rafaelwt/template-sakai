@@ -78,4 +78,5 @@ Instalar `npm-check-updates` para actualizar los paquetes de un proyecto.
 ```bash
   ng update @angular/cli
   ng update @angular/core
+  ng update @angular-devkit/build-angular@next @angular/cdk@next @angular/cli@next
 ```
